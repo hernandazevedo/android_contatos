@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Projeto10</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="str_selecione">Selecione..</string>
+    <string name="str_login">Login</string>
+    <string name="str_senha">Senha</string>
+    <string name="str_hint_login">Digite o Login</string>
+    <string name="str_hint_senha">Digite a Senha</string>
+    <string name="str_entrar">Entrar</string>
+    <string name="str_contatos">Contatos</string>
+    <string name="str_lista_contatos">Lista de Contatos</string>
+    <string name="str_novo_contato">Novo Contato</string>
+    <string name="str_sair">Sair</string>
+    <string name="msg_erro_campo_obrigatorio">Campo Obrigatório</string>
+    <string name="str_aguarde">Aguarde</string>
+    <string name="msg_aguarde">Por favor aguarde...</string>
+    <string name="msg_nenhum_reg">Nenhum contato retornado</string>
+    <string name="msg_erro_internet">Sem conexão</string>
+
+</resources>
